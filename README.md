@@ -44,3 +44,10 @@ https://docs.zephyrproject.org/latest/hardware/porting/board_porting.html#board-
 
 ## Official documentation for Nucleo G070RB board
 https://docs.zephyrproject.org/latest/boards/st/nucleo_g070rb/doc/index.html
+
+## Other documentation
+https://vivonomicon.com/2018/04/02/bare-metal-stm32-programming-part-1-hello-arm/
+https://github.com/WRansohoff/STM32F0_minimal
+https://www.st.com/en/microcontrollers-microprocessors/stm32g070rb.html#documentation
+https://www.st.com/resource/en/reference_manual/rm0454-stm32g0x0-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
+https://docs.zephyrproject.org/latest/boards/qemu/cortex_m0/doc/index.html
